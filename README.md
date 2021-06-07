@@ -58,7 +58,23 @@ Following tasks are performed for building the efficient model & executing the p
 
 4.Ensemble Model
 
-**Finally one best model has been choosen for predicting the total cab bookings of test data **
+**Finally one best model has been choosen for predicting the total cab bookings of test data**.
 
+## Dependencies:
 
+Python 3+, jupyter notebbook, Pandas, Numpy, EDA, Sklearn, Supervised learning, Linear regression, Ensemble learning, Decision tree, Random forest, SVR, Bagging, Adaboost, Gradientboost
 
+## Purpose:
+
+The purpose of this project is to gain insights in following topics & help others in
+
+a) Pratical implementation of - 
+   - EDA analysis of data
+   - Outlier detection & removal
+   - finding missing values & replacing with suitable values
+   - plotting of various features on graphs for better intution using seaborn & matplotlib
+   - correlation analysis using heatmap
+   - feature engineering
+   - ML alogarithms & Ensemble learning
+
+b) 
