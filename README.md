@@ -14,21 +14,21 @@ Here train labels i.e. ‘Total_booking’ are provided in seperarte csv file & 
 
 Descriptions of the columns present in the datasets as below.
 
-- # datetime-hourly date +timestamp 
+- **datetime**-hourly date +timestamp 
 
-- season-spring, summer, autumn, winter
+- **season**-spring, summer, autumn, winter
 
-- holiday-whether the day is considered a holiday
+- **holiday**-whether the day is considered a holiday
 
-- workingday-whether the day is neither a weekend nor holiday
+- **workingday**-whether the day is neither a weekend nor holiday
 
-- weather-Clear , Cloudy,  Light Rain, Heavy temp-temperature in Celsius
+- **weather**-Clear , Cloudy,  Light Rain, Heavy temp-temperature in Celsius
 
-- atemp-"feels like" temperature in Celsius
+- **atemp**-"feels like" temperature in Celsius
 
-- humidity-relative humidity
+- **humidity**-relative humidity
 
-- windspeed-wind speed
+- **windspeed**-wind speed
 
 Total_booking-number of total booking
 
@@ -36,7 +36,7 @@ Total_booking-number of total booking
 
 Following tasks are performed for building the efficient model & executing the project-
 
-## - Task1:
+**Task1**:
 
 1.Visualize data using different visualizations to generate interesting insights.
 
@@ -48,7 +48,7 @@ Following tasks are performed for building the efficient model & executing the p
 
 5.Correlation Analysis
 
-## - Task2:
+**Task2:
 
 1.Feature Engineering
 
