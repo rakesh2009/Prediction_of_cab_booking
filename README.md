@@ -58,3 +58,7 @@ Following tasks are performed for building the efficient model & executing the p
 
 4.Ensemble Model
 
+**Finally one best model has been choosen for predicting the total cab bookings of test data **
+
+
+
