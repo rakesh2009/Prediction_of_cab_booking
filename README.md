@@ -14,7 +14,7 @@ Here train labels i.e. ‘Total_booking’ are provided in seperarte csv file & 
 
 Descriptions of the columns present in the datasets as below.
 
-- datetime-hourly date +timestamp 
+- # datetime-hourly date +timestamp 
 
 - season-spring, summer, autumn, winter
 
