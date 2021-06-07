@@ -15,13 +15,21 @@ Here train labels i.e. ‘Total_booking’ are provided in seperarte csv file & 
 Descriptions of the columns present in the datasets as below.
 
 datetime-hourly date +timestamp 
+
 season-spring, summer, autumn, winter
+
 holiday-whether the day is considered a holiday
+
 workingday-whether the day is neither a weekend nor holiday
+
 weather-Clear , Cloudy,  Light Rain, Heavy temp-temperature in Celsius
+
 atemp-"feels like" temperature in Celsius
+
 humidity-relative humidity
+
 windspeed-wind speed
+
 Total_booking-number of total booking
 
 Efficient model building:
@@ -29,15 +37,24 @@ Efficient model building:
 Following tasks are performed for building the efficient model & executing the project-
 
 Task1:
+
 1.Visualize data using different visualizations to generate interesting insights.
+
 2.Outlier Analysis
+
 3.Missing value analysis
+
 4.Visualizing Total_booking Vs other features to generate insights
+
 5.Correlation Analysis
 
 Task2:
+
 1.Feature Engineering
+
 2.Grid search
+
 3.Regression Analysis
+
 4.Ensemble Model
 
