@@ -66,9 +66,9 @@ Python 3+, jupyter notebbook, Pandas, Numpy, EDA, Sklearn, Supervised learning, 
 
 ## Purpose:
 
-The purpose of this project is to gain insights in following topics & help others in
+a) The purpose of this project is to gain insights in following topics 
 
-a) Pratical implementation of - 
+Pratical implementation of - 
    - EDA analysis of data
    - Outlier detection & removal
    - finding missing values & replacing with suitable values
@@ -77,4 +77,6 @@ a) Pratical implementation of -
    - feature engineering
    - ML alogarithms & Ensemble learning
 
-b) 
+b) This work can be directly used for predicting the cab booking system for any practical applications
+
+c) Above procedure will be same for any ML model building & it can be taken as reference for other works also
