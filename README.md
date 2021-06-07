@@ -1,12 +1,12 @@
-# Prediction_of_cab_booking
+ # # Prediction_of_cab_booking 
 
-Basic details about problem : 
+# Basic details about problem : 
 
 Cab booking system is the process where renting a cab is automated through an app throughout a city. Using this app,people can book a cab from one location to another location.  Being a cab booking app company, exploiting theunderstanding ofcab supply and demand could increase the efficiency of their service and enhance user experience by minimizing waiting time.
 
 Objective of this work is to combine historical usage pattern along with the open data sources like weather data to forecast cab booking demand in a city.
 
-Data :
+# Data :
 
 Hourly renting data span of two years is provided. Data is randomly divided into train and test set. We must predict the total count of cabs booked in each hour covered by the test set, using the information available prior to the booking period. 
 
@@ -14,7 +14,7 @@ Here train labels i.e. ‘Total_booking’ are provided in seperarte csv file & 
 
 Descriptions of the columns present in the datasets as below.
 
-datetime-hourly date +timestamp 
+- datetime-hourly date +timestamp 
 
 season-spring, summer, autumn, winter
 
